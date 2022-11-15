@@ -1,8 +1,7 @@
 public class Vehicule {
     public Vehicule() {
     }
-
-    public void sayHi(){
+    public void sePresenter(){
         System.out.print("hi vehicule");
     }
 }
